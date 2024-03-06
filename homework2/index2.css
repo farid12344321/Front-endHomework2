@@ -1,0 +1,57 @@
+
+.learning{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(83, 124, 124);
+    height: 200px;
+}
+.learning h1{
+    color: white;
+}
+
+
+.blocks{
+    height: 260px;
+}
+.blocks h1{
+    text-align: center;
+    color: rgb(68, 68, 68);
+    width: 550px;
+    margin-left: 500px;
+    
+}
+
+.blocks p{
+    color: rgb(68, 68, 68);
+    width: 500px;
+    text-align: center;
+    margin-left: 500px;
+}
+
+
+.about{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    background-color: rgb(22, 54, 54);
+}
+
+.about .block1{
+    margin-right: 200px;
+    color: white;
+    width: 200px;
+    text-align: center;
+}
+
+.about .block2{
+    width: 200px;
+    text-align: center;
+    color: white;
+}
+.about .block3{
+    width: 200px;
+    text-align: center;
+    margin-left: 200px;
+    color: white;
+}
